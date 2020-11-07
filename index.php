@@ -16,6 +16,8 @@
 		<p class="github_link"><a href="https://github.com/NeoKms/sticker_shop" target="_blank">Github - NeoKms/sticker_shop</a></p>
 		<p class="main_link"><a href="./school/">Онлайн-журнал для школы</a></p>
 		<p class="github_link"><a href="https://github.com/NeoKms/school_journal" target="_blank">Github - NeoKms/school_journal</a></p>
+		<p class="main_link"><a href="./school/"> --> Онлайн-журнал для школы</a></p>
+		<p class="github_link"><a href="https://github.com/NeoKms/school_journal" target="_blank">Github - NeoKms/school_journal</a></p>
 	</div>
 </div>
 </body>
