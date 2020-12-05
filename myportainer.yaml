@@ -90,10 +90,12 @@ spec:
       targetPort: 9000
       protocol: TCP
       name: http
+      nodePort: 30777
     - port: 8000
       targetPort: 8000
       protocol: TCP
       name: edge
+      nodePort: 30776
   selector:
     app.kubernetes.io/name: portainer
     app.kubernetes.io/instance: portainer
@@ -139,11 +141,9 @@ spec:
             - name: http
               containerPort: 9000
               protocol: TCP
-              nodePort: 30777
             - name: tcp-edge
               containerPort: 8000
-              protocol: TCP   
-              nodePort: 30776
+              protocol: TCP
           livenessProbe:
             httpGet:
               path: /
