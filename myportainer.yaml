@@ -1,3 +1,8 @@
+# неймспейс
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: portainer
 ---
 # разметка стора для портейнера
 apiVersion: v1
@@ -134,9 +139,11 @@ spec:
             - name: http
               containerPort: 9000
               protocol: TCP
+              nodePort: 30777
             - name: tcp-edge
               containerPort: 8000
-              protocol: TCP              
+              protocol: TCP   
+              nodePort: 30776
           livenessProbe:
             httpGet:
               path: /
