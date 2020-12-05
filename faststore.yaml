@@ -1,0 +1,6 @@
+kind: StorageClass
+metadata:
+  name: fast
+provisioner: kubernetes.io/gce-pd
+parameters:
+  type: pd-ssd
