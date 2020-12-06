@@ -63,7 +63,7 @@ spec:
       serviceAccount: nfs-provisioner
       containers:
         - name: nfs-provisioner
-          image: quay.io/external_storage/nfs-ganesha-server-and-provisioner:latest
+          image: kiranmova/nfs-ganesha-server-and-provisioner
           ports:
             - name: nfs
               containerPort: 2049
@@ -187,7 +187,7 @@ roleRef:
 kind: StorageClass
 apiVersion: storage.k8s.io/v1
 metadata:
-  name: example-nfs
+  name: autonfs
 provisioner: autonfs/nfs
 mountOptions:
   - vers=4.1
