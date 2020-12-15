@@ -63,7 +63,7 @@ spec:
       serviceAccount: nfs-provisioner
       containers:
         - name: nfs-provisioner
-          image: kiranmova/nfs-ganesha-server-and-provisioner
+          image: upachko/nfs-provisioner:latest
           ports:
             - name: nfs
               containerPort: 2049
