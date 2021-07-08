@@ -22,10 +22,10 @@
         <p class="github_link"><a href="https://github.com/NeoKms/gantt_calendar" target="_blank">Github - NeoKms/gantt_calendar</a></p>
         <p class="main_link"><a href="./gantt-calendar/"> --> Автоматизированная система генерации шаблонных сайтов в области коммерческой недвижимости </a></p>
         <p class="github_link"><a href="https://github.com/NeoKms/siteBuilderKuber" target="_blank">Github - NeoKms/siteBuilderKuber</a></p>
-        <p class="github_link"><a href="https://github.com/NeoKms/siteBuilderAPI" target="_blank">Github - NeoKms/siteBuilderAPI</a></p>
-        <p class="github_link"><a href="https://github.com/NeoKms/siteBuilderFront" target="_blank">Github - NeoKms/siteBuilderFront</a></p>
-        <p class="github_link"><a href="https://github.com/NeoKms/SiteBuilderProcessor" target="_blank">Github - NeoKms/SiteBuilderProcessor</a></p>
-        <p class="github_link"><a href="https://github.com/NeoKms/siteBuilderBuilder" target="_blank">Github - NeoKms/siteBuilderBuilder</a></p>
+        <p class="github_link additional_link"><a href="https://github.com/NeoKms/siteBuilderAPI" target="_blank">Github - NeoKms/siteBuilderAPI</a></p>
+        <p class="github_link additional_link"><a href="https://github.com/NeoKms/siteBuilderFront" target="_blank">Github - NeoKms/siteBuilderFront</a></p>
+        <p class="github_link additional_link"><a href="https://github.com/NeoKms/SiteBuilderProcessor" target="_blank">Github - NeoKms/SiteBuilderProcessor</a></p>
+        <p class="github_link additional_link"><a href="https://github.com/NeoKms/siteBuilderBuilder" target="_blank">Github - NeoKms/siteBuilderBuilder</a></p>
 	</div>
 </div>
 </body>
