@@ -26,6 +26,7 @@
         <p class="github_link additional_link"><a href="https://github.com/NeoKms/siteBuilderFront" target="_blank">Github - NeoKms/siteBuilderFront</a></p>
         <p class="github_link additional_link"><a href="https://github.com/NeoKms/SiteBuilderProcessor" target="_blank">Github - NeoKms/SiteBuilderProcessor</a></p>
         <p class="github_link additional_link"><a href="https://github.com/NeoKms/siteBuilderBuilder" target="_blank">Github - NeoKms/siteBuilderBuilder</a></p>
+        <p class="github_link additional_link"><a href="https://github.com/NeoKms/SiteBuilderWebsocket" target="_blank">Github - NeoKms/SiteBuilderWebsocket</a></p>
 	</div>
 </div>
 </body>
