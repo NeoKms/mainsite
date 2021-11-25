@@ -18,7 +18,9 @@
 		<p class="github_link"><a href="https://github.com/NeoKms/school_journal" target="_blank">Github - NeoKms/school_journal</a></p>
 		<p class="main_link"><a href="https://d5d1bmusasgbk48d08eo.apigw.yandexcloud.net/"> --> Serverless сокращатель ссылок</a></p>
 		<p class="github_link"><a href="https://github.com/NeoKms/serverless-link-shortener" target="_blank">Github - NeoKms/serverless-link-shortener</a></p>
-        <p class="main_link"><a href="./gantt-calendar/"> --> Календарь смен сотрудников в виде диаграммы Гантта</a></p>
+        <p class="main_link"><a href="./vue/gantt-calendar/"> --> Календарь смен сотрудников в виде диаграммы Гантта</a></p>
+        <p class="github_link"><a href="https://github.com/NeoKms/gantt_calendar" target="_blank">Github - NeoKms/gantt_calendar</a></p>
+	<p class="main_link"><a href="./vue/pdfreader/"> --> Разметка Pdf документов</a></p>
         <p class="github_link"><a href="https://github.com/NeoKms/gantt_calendar" target="_blank">Github - NeoKms/gantt_calendar</a></p>
         <p class="main_link"><a href="https://front.jrgreez.ru/"> --> Автоматизированная система генерации шаблонных сайтов в области коммерческой недвижимости </a></p>
         <p class="github_link"><a href="https://github.com/NeoKms/siteBuilderKuber" target="_blank">Github - NeoKms/siteBuilderKuber</a></p>
