@@ -12,6 +12,9 @@
 				<img src="./keany12.png" class="img-fluid logo-img">
 				<h2> Прости, основной сайт еще в разработке.</h2>
 		<h3>Посмотри другие мои проекты:</h3>
+		<p class="main_link"><a href="https://photobank.jrgreez.ru/"> --> Фотобанк </a></p>
+		<p class="github_link"><a href="https://github.com/NeoKms/photobank" target="_blank">Github - NeoKms/photobank</a></p>
+		<p class="github_link"><a href="https://github.com/NeoKms/photobank_api" target="_blank">Github - NeoKms/photobank_api</a></p>
 		<p class="main_link"><a href="./shop/"> --> Магазин стикеров</a>
 		<p class="github_link"><a href="https://github.com/NeoKms/sticker_shop" target="_blank">Github - NeoKms/sticker_shop</a></p>
 		<p class="main_link"><a href="./school/"> --> Онлайн-журнал для школы</a></p>
